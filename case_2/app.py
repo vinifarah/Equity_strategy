@@ -232,8 +232,7 @@ with st.sidebar:
     """, unsafe_allow_html=True)
     st.markdown("## ⚙️ Configurações")
     enable_critique = st.toggle("Self-critique loop", value=True, help="Roda uma segunda passagem do LLM para validar consistência interna da análise")
-    show_json = st.toggle("Mostrar JSON bruto", value=False)
-    save_outputs = st.toggle("Salvar outputs em disco", value=True)
+    show_json = True
 
     st.markdown("---")
     st.markdown("### 💡 Cenários de exemplo")
@@ -330,16 +329,15 @@ if run_button:
             st.stop()
 
     # Save to disk
-    if save_outputs:
-        output_dir = Path("outputs")
-        output_dir.mkdir(exist_ok=True)
-        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-        (output_dir / f"scenario_{ts}.json").write_text(
-            analysis.model_dump_json(indent=2), encoding="utf-8"
-        )
-        report_md = generate_report(analysis)
-        (output_dir / f"scenario_{ts}.md").write_text(report_md, encoding="utf-8")
-        st.success(f"Outputs salvos em `outputs/scenario_{ts}.[json|md]`")
+    output_dir = Path("outputs")
+    output_dir.mkdir(exist_ok=True)
+    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    (output_dir / f"scenario_{ts}.json").write_text(
+        analysis.model_dump_json(indent=2), encoding="utf-8"
+    )
+    report_md = generate_report(analysis)
+    (output_dir / f"scenario_{ts}.md").write_text(report_md, encoding="utf-8")
+    st.success(f"Outputs salvos em `outputs/scenario_{ts}.[json|md]`")
 
     # --- Render results ---
     st.markdown("---")
