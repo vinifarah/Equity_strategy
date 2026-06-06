@@ -600,17 +600,36 @@ st.markdown("---")
 st.markdown("## 🔄 Comparar Dois Cenários")
 st.caption("Identifique quais setores são consenso entre dois cenários distintos e quais divergem.")
 
+_comp_examples_a = {
+    "Queda de juros + BRL fraco": "A Selic cai para 10% ao longo de 2025, mas o câmbio permanece pressionado em torno de BRL 5,80 por dólar devido ao risco fiscal. O preço do petróleo Brent se mantém em USD 80/barril e as commodities metálicas estão em alta de 15%, puxadas pela recuperação da demanda chinesa.",
+    "Crescimento + inflação controlada": "O PIB do Brasil cresce 3% em 2025, com inflação convergindo para a meta de 3%. O Banco Central mantém a Selic em 12% mas com perspectiva de cortes para o segundo semestre. O câmbio está estável em BRL 5,20 e há aceleração da Reforma Tributária com impacto positivo no setor industrial.",
+    "Crise fiscal + Selic sobe": "O governo anuncia um déficit fiscal maior que o esperado, de 1,5% do PIB para 2025. O mercado precifica alta da Selic de volta para 15%. O câmbio dispara para BRL 6,50. As curvas de juros longa abrem 150bps. Há fuga de capital estrangeiro da bolsa brasileira.",
+    "China fraca + commodities em queda": "Dados de atividade industrial chinesa decepcionam pelo terceiro mês consecutivo. O preço do minério de ferro cai 20% e o petróleo recua para USD 65/barril. No Brasil, a Selic está em 12,5% com perspectiva de manutenção. O agronegócio continua forte puxado pela soja.",
+}
+_comp_examples_b = {
+    "Soft landing americano + dólar fraco": "O Fed corta juros 3 vezes em 2025, o dólar índice DXY cai 8%. O BRL aprecia para 4,90, aliviando pressão inflacionária no Brasil. A Selic pode cair mais rápido que o esperado. Fluxo estrangeiro retorna a emergentes.",
+    "Recessão global + commodities em colapso": "Recessão técnica nos EUA e Europa derruba demanda global. Minério de ferro recua 30%, petróleo vai a USD 55/barril. O Brasil sofre deterioração de conta corrente. Ibovespa perde suporte com saída de capital estrangeiro.",
+    "Reforma fiscal aprovada + juros cadentes": "O Congresso aprova reforma que garante superávit primário de 0,5% do PIB em 2026. O mercado precifica queda estrutural dos juros longos. O câmbio se aprecia para BRL 4,80. Crédito ao consumidor se expande, beneficiando varejo e construção civil.",
+    "Superciclo de commodities agrícolas": "Seca severa no hemisfério norte eleva preços de soja (+25%), milho (+20%) e açúcar (+15%). O Brasil, maior exportador global, captura ganhos expressivos no agro. Câmbio se aprecia levemente mas a inflação de alimentos acelera internamente.",
+}
+
 _ca_col, _cb_col = st.columns(2)
 with _ca_col:
+    _sel_a = st.selectbox("Exemplo para Cenário A:", ["(escrever manualmente)"] + list(_comp_examples_a.keys()), key="comp_sel_a")
+    _default_a = _comp_examples_a.get(_sel_a, "") if _sel_a != "(escrever manualmente)" else ""
     _scen_a = st.text_area(
         "Cenário A:",
+        value=_default_a,
         height=100,
         placeholder="Ex: Selic cai para 10%, câmbio estável em 5,20, crescimento do PIB em 3%...",
         key="comp_scen_a",
     )
 with _cb_col:
+    _sel_b = st.selectbox("Exemplo para Cenário B:", ["(escrever manualmente)"] + list(_comp_examples_b.keys()), key="comp_sel_b")
+    _default_b = _comp_examples_b.get(_sel_b, "") if _sel_b != "(escrever manualmente)" else ""
     _scen_b = st.text_area(
         "Cenário B:",
+        value=_default_b,
         height=100,
         placeholder="Ex: Selic sobe para 15%, câmbio em 6,50, déficit fiscal acima do esperado...",
         key="comp_scen_b",
