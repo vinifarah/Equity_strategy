@@ -1,0 +1,213 @@
+PETROBRAS (PETR4) — Earnings Call 4T24 / Q4 2024
+Date: February 21, 2025
+Participants:
+  - Magda Chambriard, CEO
+  - Fernando Melgarejo, CFO
+  - Clarice Coppetti, Investor Relations Director
+  - [Analysts from Itaú BBA, XP Investimentos, BTG Pactual, Goldman Sachs, Morgan Stanley]
+
+==============================================================================
+OPENING REMARKS
+==============================================================================
+
+Clarice Coppetti (IR Director):
+Good morning, everyone, and welcome to Petrobras' Fourth Quarter 2024 Earnings Conference Call.
+Today we will present our results for the period, followed by a Q&A session. I'd like to remind
+you that this call is being recorded and may contain forward-looking statements. I will now turn
+the call over to our CEO, Dr. Magda Chambriard.
+
+Magda Chambriard (CEO):
+Thank you, Clarice. Good morning to all our investors and analysts. I am very proud to announce
+that Petrobras delivered its strongest pre-salt production year on record in 2024, averaging
+2.9 million barrels of oil equivalent per day in Q4 alone. This represents a 7% increase over
+Q3 2024 and confirms our operational excellence in the Santos Basin.
+
+We have continued to prioritize safety, efficiency, and returns. Our lifting cost remained at
+$6.5 per barrel, which is one of the lowest in our peer group globally. This cost discipline,
+combined with record production, translated into Adjusted EBITDA of R$ 67.4 billion for the
+quarter, up from R$ 61.2 billion in Q3 2024.
+
+Now, I want to address the question many of you have been asking: our dividend policy. As you
+know, our 2024-2028 Strategic Plan committed to distributing at least 45% of free cash flow to
+shareholders. I am pleased to confirm that we will maintain this commitment. For 2024 as a whole,
+we will distribute R$ 72.9 billion in dividends, which represents an extraordinary payout ratio
+of 68% of free cash flow. This reflects the Board's confidence in our cash generation capacity.
+
+I also want to highlight a strategic decision that we are announcing today for the first time:
+we have approved a new investment program for the Rota 3 gas pipeline expansion in Rio de Janeiro,
+with a total capex of R$ 8.7 billion over 2025-2027. This was not included in our previous
+strategic plan and reflects new commercial agreements with industrial clients in the Southeast
+region. We expect this to add incremental EBITDA of approximately R$ 1.2 billion per year from 2027.
+
+I will now pass the word to our CFO, Fernando Melgarejo, for the financial highlights.
+
+Fernando Melgarejo (CFO):
+Thank you, Magda. Good morning. Let me walk you through the key financial metrics for Q4 2024.
+
+Net revenues reached R$ 145.3 billion, up 4% sequentially, primarily driven by higher production
+volumes partially offset by a 3% decrease in realized Brent prices in R$ terms. Our lifting cost
+came in at R$ 37.80 per barrel, which at the prevailing exchange rate represents approximately
+USD 6.5 per barrel, consistent with our guidance.
+
+Operating cash flow was R$ 53.1 billion in Q4, and we ended the year with gross debt of
+R$ 312.8 billion and net debt of R$ 205.6 billion. Our net debt-to-EBITDA ratio stands at
+0.76x, comfortably below our strategic ceiling of 2.0x.
+
+Regarding 2025 capex guidance: we are revising our 2025 investment plan upward to R$ 104 billion,
+from the previously communicated R$ 89 billion. This increase of approximately R$ 15 billion
+reflects three factors: first, the Rota 3 expansion announced by Magda; second, acceleration of
+our Buzios Phase 7 development following the successful FPSO commissioning; and third, higher
+anticipated costs related to our refinery revamp program at RNEST. We are confident this
+accelerated investment will deliver superior returns in the 2026-2028 window.
+
+Let me also address our production guidance for 2025. We are maintaining our production target of
+2.8 to 3.0 million barrels of oil equivalent per day. Some analysts have modeled higher production
+following Q4's strong performance. I want to be careful not to get ahead of ourselves here —
+there are still uncertainties around FPSO scheduling that prevent us from revising upward at
+this stage.
+
+==============================================================================
+Q&A SESSION
+==============================================================================
+
+Clarice Coppetti (IR):
+We will now open the Q&A session. Please limit questions to two per analyst. Our first question
+comes from Gabriel Barra at Itaú BBA.
+
+Gabriel Barra (Itaú BBA):
+Good morning, Magda, Fernando. Congratulations on the strong results. I have two questions.
+First, on the dividend: you mentioned maintaining the 45% minimum, but the extraordinary payout
+this year at 68% was driven by very specific cash dynamics. Can you commit to a similar above-minimum
+payout for 2025, or should the market model closer to the 45% floor? And second, on capex,
+the R$ 15 billion increase is quite significant relative to what was in the plan — was this
+fully approved by the Board, and does it change the return hurdle for new projects?
+
+Fernando Melgarejo (CFO):
+Gabriel, thank you for the question. On dividends — we remain committed to the 45% minimum as
+stated in our strategic plan. Regarding extraordinary distributions above the floor, this depends
+on factors including our cash position, investment needs, and market conditions at the time of each
+Board meeting. It would be premature for me to comment at this point on what 2025 extraordinary
+dividends might look like. What I can say is that our cash generation remains robust and we are
+well-positioned to continue rewarding shareholders. The capital structure is healthy.
+
+On the capex revision: yes, the R$ 15 billion increase was approved by the Board in our January 2025
+board meeting. Each of these projects clears our internal hurdle rate of 15% IRR at $70 Brent.
+I want to make very clear — we are not sacrificing returns for growth.
+
+[Analyst follow-up was cut off]
+
+Clarice Coppetti (IR):
+Our next question comes from Regis Cardoso at XP Investimentos.
+
+Regis Cardoso (XP Investimentos):
+Morning, everyone. My question is about the RNEST refinery. You mentioned higher costs in the
+revamp program. Can you give us more color on what's driving that? There have been reports in
+the press about contractor issues and delays. Is the R$ 4.2 billion additional capex at RNEST
+fully within contingency budgets, or is this a new cost overrun? And separately, what's the
+timeline for RNEST to reach full nameplate capacity?
+
+Magda Chambriard (CEO):
+Regis, I want to be direct with you. The RNEST situation is — look, it's a very complex project.
+We've had some, let's say, challenges with one of our primary EPC contractors. We are working through
+those challenges. What I can tell you is that we are committed to bringing RNEST to full capacity,
+and we expect to provide a more detailed update in our Q1 2025 results call in May. At this stage,
+I think it's important that we — let me think — we need to be careful about saying too much before
+we have full clarity on the contractor situation. What I can say is that the overall project
+economics remain attractive. Fernando, do you want to add something on the cost side?
+
+Fernando Melgarejo (CFO):
+Yes. The additional costs at RNEST are within — they are being evaluated within the revised budget
+framework. I don't want to give you a specific number today because the contractor renegotiations
+are ongoing. We will be transparent when we have finalized those negotiations. What I can confirm
+is that the R$ 104 billion total capex guidance includes a contingency provision for RNEST,
+and we are comfortable with that overall number.
+
+Regis Cardoso (XP Investimentos):
+Just to be clear — you cannot confirm whether RNEST is within the original contingency envelope
+or represents a cost overrun beyond that?
+
+Magda Chambriard (CEO):
+What we can confirm is that the overall 2025 capex guidance of R$ 104 billion fully contemplates
+our current expectation for RNEST expenditures. I think that's the most important data point.
+Let's move forward.
+
+Clarice Coppetti (IR):
+Our next question comes from Bruno Amorim at Goldman Sachs.
+
+Bruno Amorim (Goldman Sachs):
+Good morning. My question is about pre-salt production costs. You maintained the lifting cost at
+$6.5 per barrel, which is outstanding. But as you move into deeper, more complex Buzios phases —
+Phase 7 and beyond — is there an inflection point where lifting costs start rising? And related to
+that, how sensitive is your dividend capacity to a scenario where Brent drops to $65 per barrel
+for an extended period?
+
+Fernando Melgarejo (CFO):
+Bruno, excellent questions. On lifting cost: we are actually targeting to keep lifting costs
+below $7 per barrel through 2028, even as we develop deeper Buzios phases. This is achievable
+through standardization of our FPSO design, optimization of our integrated operations model,
+and continued digitalization of our maintenance programs. The cost trajectory is under control.
+
+On Brent sensitivity: at $65 Brent, our cash generation remains positive and we would still be
+able to meet our minimum 45% distribution commitment. However, I want to emphasize that below
+$60 Brent, we would review all capital allocation priorities in light of the macroeconomic
+scenario. We have stress-tested our balance sheet extensively, and I am confident in its
+resilience.
+
+Bruno Amorim (Goldman Sachs):
+Can you be more specific on the free cash flow breakeven price? At what Brent level does free
+cash flow after capex and distributions go to zero?
+
+Fernando Melgarejo (CFO):
+Bruno, that's a more granular sensitivity that we prefer to discuss in bilateral meetings with
+investors. But I can say directionally that our breakeven — including capex and the minimum
+distribution — is below $50 Brent. We're in a very comfortable position.
+
+Clarice Coppetti (IR):
+Our next question comes from Christian Audi at Morgan Stanley.
+
+Christian Audi (Morgan Stanley):
+Thank you. Two quick ones. First, on the Rota 3 gas pipeline — this is a material new announcement.
+Can you share who the industrial offtakers are and what type of contract structure these are
+take-or-pay or spot? And second, on ESG: you mentioned operational excellence but I noticed you
+removed the Scope 3 emissions reduction target from your updated strategic plan. Can you explain
+the rationale?
+
+Magda Chambriard (CEO):
+Christian, on Rota 3: the commercial agreements are with major industrial groups in the Southeast.
+I cannot disclose the counterparties at this stage as the contracts are not yet publicly filed.
+What I can confirm is that these are predominantly take-or-pay structures with a weighted average
+contract duration of 15 years. This gives us very high revenue visibility.
+
+On Scope 3 — I want to be direct. We made a deliberate decision to focus our emissions reduction
+commitments on areas where we have operational control, which is Scopes 1 and 2. Scope 3 involves
+our customers' emissions, which are outside our direct management. We believe our commitments on
+Scope 1 and 2 are among the most ambitious in the industry and represent a credible, achievable
+pathway. We are not stepping back from climate commitments — we are being more rigorous about
+what we can actually deliver.
+
+Clarice Coppetti (IR):
+We have time for one final question. Leonardo Marcondes from BTG Pactual.
+
+Leonardo Marcondes (BTG Pactual):
+Morning. On the extraordinary dividend — you paid R$ 72.9 billion in 2024 versus R$ 63.1 billion
+in 2023. The market had broadly expected around R$ 70 billion, so this is slightly above consensus.
+But looking at 2025, with capex up R$ 15 billion, wouldn't the math suggest a significantly lower
+total distribution? I'm trying to reconcile the capex increase with shareholder returns messaging.
+
+Fernando Melgarejo (CFO):
+Leonardo, you're right that there is a mechanical impact from higher capex on free cash flow.
+However, I want to highlight two things: first, our operating cash flow is also expected to
+grow as production ramps up in 2025; and second, the Rota 3 and Buzios Phase 7 investments
+begin generating returns within the strategic plan horizon. We remain committed to the 45% floor.
+Beyond that, as I said to Gabriel, the Board will evaluate extraordinary distributions as we
+go through the year. I don't want to set a specific number for 2025 distributions at this time.
+
+Magda Chambriard (CEO):
+Let me close by reaffirming that Petrobras is in an exceptional position: record production,
+best-in-class costs, a healthy balance sheet, and a clear strategic direction. We are investing
+for the future without sacrificing the present. Thank you all for joining us today.
+
+Clarice Coppetti (IR):
+Thank you all. A replay of this call will be available on our IR website. Have a good day.
+
+[END OF CALL]

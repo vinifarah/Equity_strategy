@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python --version)",
+      "PowerShell(pip --version)",
+      "PowerShell($env:ANTHROPIC_API_KEY -ne $null -and $env:ANTHROPIC_API_KEY -ne \"\")",
+      "PowerShell(python -m pip install \"starlette>=0.46.0\" -q)",
+      "PowerShell(python -c \"from google import genai; print\\('google-genai OK'\\)\")"
+    ]
+  }
+}
